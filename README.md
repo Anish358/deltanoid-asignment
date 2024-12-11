@@ -61,7 +61,7 @@ This is a comprehensive React.js dashboard application featuring user management
 1. Clone the repository
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/Anish358/deltanoid-asignment
 cd dynamic-dashboard
 ```
 
@@ -155,5 +155,5 @@ anishwork69@gmail.com
 # Live Link
 
 ```
-
+https://deltanoid-asignment.vercel.app/
 ```
